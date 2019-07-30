@@ -1,5 +1,5 @@
 # Machine-Learning-Seminar
-<hr>
+
 
 * 교재 : Hands on Machine Learning 
 * 일시 : 8월 2일 ~ 8월 16일 매주 금요일 오전 10시
