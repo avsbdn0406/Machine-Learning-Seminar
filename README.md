@@ -7,7 +7,7 @@
 
 <br>
 
-| 1회차(19.08.02(금)) | 내용 | 교재 | 
+| 1회차(19.08.29(목)) | 내용 | 교재 | 
 | ---------- | --------- | ---------- |
 | 홍용기 | Ch05. Support Vector Machines <img width=100/>| p214~242 | 
 | 유재은 | Ch06.Decision tree | p243~260 | 
@@ -15,7 +15,7 @@
 <br>
 
 
-| 2회차(19.08.09(금)) | 내용 | 교재 | 
+| 2회차(19.09.05(목)) | 내용 | 교재 | 
 | ---------- | --------- | ---------- |
 | 홍용기 | Ch07.Ensemble Learning and Random Forests | p261~274 | 
 | 유재은 | Ch07.Ensemble Learning and Random Forests | p275~292 | 
@@ -23,7 +23,7 @@
 <br>
 
 
-| 3회차(19.08.16(금)) | 내용 | 교재 | 
+| 3회차(19.09.12(목)) | 내용 | 교재 | 
 | ---------- | --------- | ---------- |
 | 유재은 | Ch08. Dimensionality Reduction <img width=98/>| p293~317 | 
 | 홍용기 | Ch08. Dimensionality Reduction | p318~327 | 
